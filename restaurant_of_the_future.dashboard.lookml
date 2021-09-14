@@ -9,7 +9,7 @@
     explore: sales_detail
     type: single_value
     fields: [sales_detail.total_retail_price]
-    limit: 500
+    limit: 499
     custom_color_enabled: true
     show_single_value_title: true
     show_comparison: false
